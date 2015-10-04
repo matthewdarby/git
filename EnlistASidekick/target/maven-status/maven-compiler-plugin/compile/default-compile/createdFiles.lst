@@ -1,0 +1,7 @@
+com\enlistasidekick\beans\Requestor.class
+com\enlistasidekick\beans\AccountabilityPartner.class
+com\enlistasidekick\beans\ChallengeRequest$Frequency.class
+com\enlistasidekick\beans\ChallengeRequest.class
+com\enlistasidekick\beans\Challenge.class
+com\enlistasidekick\beans\User.class
+com\enlistasidekick\controller\EnlistController.class
